@@ -3,5 +3,5 @@
 <asp:Content ID="header" ContentPlaceHolderID="head" runat="server"></asp:Content>
 
 <asp:Content ID="content" ContentPlaceHolderID="body" runat="server">
-    <h2>Lauren was here.</h2>
+    <h2>Lauren was here. <a href="Help.aspx">Help!</a></h2>
 </asp:Content>
